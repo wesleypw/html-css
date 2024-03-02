@@ -138,13 +138,17 @@ main img{
 aside{
     background-color: var(--cor3);
     margin: 20px;
-    padding: 10px;
+    box-shadow: 1px 1px 15px 1px rgba(0, 0, 0, 0.596);
     border-radius: 10px;
 }
 aside h3{
     color: white;
-
+    background-color: var(--cor6);
+    padding: 13px;
+    border-radius: 10px 10px 0 0;
+    margin: 0;
 }
+
 
 
 ul{
